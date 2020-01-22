@@ -68,7 +68,7 @@ export default {}
     @apply leading-tight text-xl font-bold text-black mb-2 mt-10;
   }
   & h3 {
-    @apply leading-tight text-lg font-bold text-black mt-8 -mb-2;
+    @apply leading-tight text-lg font-bold text-black mt-8 mb-2;
   }
   & code {
     @apply font-mono text-sm inline bg-gray-100 px-1;

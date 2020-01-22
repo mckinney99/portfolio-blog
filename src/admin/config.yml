@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: esparkman/gridsome-starter-netlify-netlifycms-tailwindcss
+  repo: mckinney99/portfolio-blog
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"

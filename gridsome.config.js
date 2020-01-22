@@ -1,8 +1,8 @@
 const tailwindcss = require('tailwindcss')
 
 module.exports = {
-  siteName: 'Gridsome with Netlify + NetlifyCMS + TailwindCSS',
-  siteDescription: 'Gridsome Starter Kit using Netlify for Deployments, NetlifyCMS for Content Management and TailwindCSS for Styling',
+  siteName: 'Eric McKinney',
+  siteDescription: 'This is a dev blog aimed towards junior developers and students',
   titleTemplate: 'Gridsome with Netlify + NetlifyCMS + TailwindCSS',
   css: {
     loaderOptions: {

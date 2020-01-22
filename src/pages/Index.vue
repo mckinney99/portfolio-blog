@@ -56,12 +56,12 @@
 </page-query>
 
 <script>
-import { Pager } from 'gridsome'
-export default {
-  components: {
-    Pager
+  import { Pager } from 'gridsome'
+  export default {
+    components: {
+      Pager
+    }
   }
-}
 </script>
 
 <style>
